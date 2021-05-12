@@ -26,7 +26,7 @@
 
 ```python
 moreaboutamanda = {
-    "programming": ["Python", "R"],
+    "programming": ["Python", "R", "Elixir"],
     "databases": "SQL",
     "hardskills": [
         "MachineLearning", 
