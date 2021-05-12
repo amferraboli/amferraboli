@@ -44,7 +44,7 @@ moreaboutamanda = {
     "causes": [
 	"DSforSocialGood", 
 	"WomeninDS", 
-	"diversityinTech"
+	"DiversityinTech"
     ],
     "curious_facts": "I have a background in humanities",
     "pronouns": "she/her",
