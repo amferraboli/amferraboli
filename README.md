@@ -17,9 +17,6 @@
     </a>
 </p>
 
-<p align="center">
-	<img src="https://komarev.com/ghpvc/?username=amferrabolie&color=orange">	  
-</p>
 
 
 <h3> Some pieces of data about me: </h3>
