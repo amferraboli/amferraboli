@@ -3,7 +3,6 @@
 <img align='right' src="https://media.giphy.com/media/fwWN1z5x11VaLEqMdD/giphy.gif" width="150">
 
 <p align='center'> Working as a Data Scientist at <a href="http://loft.com.br"> Loft </a></p>
-<p align='center'> Studying as a Master's Special Student at IME-USP </p>
 
 <p align="center">
     <a href="https://linkedin.com/in/amanda-ferraboli/">
@@ -19,36 +18,34 @@
 
 
 
-<h3> Some pieces of data about me: </h3>
+<h3> About: </h3>
 
 ```python
-moreaboutamanda = {
-    "programming": ["Python", "R", "Elixir"],
-    "databases": "SQL",
-    "hardskills": [
-        "MachineLearning", 
-	"DataScience", 
-	"DataViz", 
-	"Statistics"
+more_about_amanda = {
+    "programming": [
+    	"Python",
+	"R", 
+	"Elixir"
     ],
+    "databases": "SQL",
     "interests": [
 	"NLP", 
-	"AIFairness", 
+	"AI fairness",
 	"Languages", 
 	"Gardening", 
-	"WorldWideMusic"
+	"Music",
+	"Cooking"
     ],
     "causes": [
-	"DSforSocialGood", 
-	"WomeninDS", 
-	"DiversityinTech"
+	"DS for Social Good", 
+	"Women in DS", 
+	"Diversity & Inclusion"
     ],
-    "curious_facts": "I have a background in humanities",
+    "curious_fact": "I have a background in humanities",
     "pronouns": "she/her",
     "looking_to_collaborate_on": [
-	"DS_libs", 
-	"tech_communities", 
-	"fairness_and_equality_projects"
+	"open source DS", 
+	"DS communities"
     ]
 }
 ```
