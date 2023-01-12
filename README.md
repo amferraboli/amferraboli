@@ -1,6 +1,5 @@
 <h2> Hello, there. Nice to have you on my Github page! <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="50" height="40" frameBorder="0"></h2>
 
-<img align='right' src="https://media.giphy.com/media/fwWN1z5x11VaLEqMdD/giphy.gif" width="150">
 
 <p align='center'> Working as a Data Scientist at <a href="http://loft.com.br"> Loft </a></p>
 
