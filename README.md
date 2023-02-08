@@ -30,21 +30,15 @@ more_about_amanda = {
     "interests": [
 	"NLP", 
 	"AI fairness",
-	"Languages", 
-	"Gardening", 
-	"Music",
-	"Cooking"
+	"languages", 
+	"gardening", 
+	"music",
+	"cooking"
     ],
     "causes": [
-	"DS for Social Good", 
-	"Women in DS", 
-	"Diversity & Inclusion"
-    ],
-    "curious_fact": "I have a background in humanities",
-    "pronouns": "she/her",
-    "looking_to_collaborate_on": [
-	"open source DS", 
-	"DS communities"
+	"DS for social good", 
+	"women in DS", 
+	"diversity & inclusion"
     ]
 }
 ```
