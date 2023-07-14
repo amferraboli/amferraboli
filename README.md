@@ -1,4 +1,4 @@
-<h2> Hello, there. Nice to have you on my Github page! <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="50" height="40" frameBorder="0"></h2>
+<h2 align='center'> Hello, there. Nice to have you on my Github page! 
 
 
 <p align='center'> Working as a Data Scientist at <a href="http://loft.com.br"> Loft </a></p>
@@ -10,9 +10,6 @@
     <a href="https://medium.com/@amanda.ferraboli">
 	<img src="https://img.shields.io/badge/-amanda.ferraboli-black?style=flat&logo=Medium&logoColor=white"/>
     </a>
-    <a href="https://www.instagram.com/amferraboli">
-	<img src="https://img.shields.io/badge/amferraboli-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white"/>
-    </a>
 </p>
 
 
@@ -22,14 +19,11 @@
 ```python
 more_about_amanda = {
     "programming": [
-    	"Python",
+    	"python",
 	"R", 
-	"Elixir"
+	"elixir"
     ],
-    "databases": "SQL",
     "interests": [
-	"NLP", 
-	"AI fairness",
 	"languages", 
 	"gardening", 
 	"music",
@@ -37,8 +31,7 @@ more_about_amanda = {
     ],
     "causes": [
 	"DS for social good", 
-	"women in DS", 
-	"diversity & inclusion"
+	"women in data science"
     ]
 }
 ```
