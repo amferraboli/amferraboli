@@ -8,10 +8,8 @@
     
 </p>
 
-Nice to have you on my Github page. 
-
-My name is Amanda, I am a data scientist. You can find some of the things I write and create on the blog page. 
-If my data could be structured, my current version would be something close to the dictionary below:
+I'm Amanda, a data scientist, and I'm thrilled to have you here on my page. This is where I showcase some of my writing and code creations. 
+If I were to describe my data in a structured manner, it would probably resemble something like the dictionary below:
 
 ```python
 amanda = {
