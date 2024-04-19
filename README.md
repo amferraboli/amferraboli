@@ -35,10 +35,10 @@ amanda = {
 ```
 
 👩‍💻
-Coding is fun because I love logical challenges; but also because it beautifully (and modestly) connects living beings to technologies that mostly want to help them. Modestly is due to the fact that most people don't even know the code exists and is behind the scenes to help. I believe my definition of success is similar to it - I like to know I helped people become better, without necessarily being famous, known or recognized for it. 
+Coding is fun because I love logical challenges. Also because it beautifully (and modestly) connects living beings with technology, often aimed at enhancing their lives. The modest aspect comes from the fact that many people are unaware of the code's existence, working quietly behind the scenes to provide assistance. I believe my definition of success is similar to it - I like to know I helped people become better, regardless of whether it brings me fame or recognition.
 
 ☕
-Coffee is not only one of the coziest moments of my day, it is also an art when you learn to appreciate it better. Caffeine in moderation is good for the beginning of ones' day. As a hot drink, coffee brings warmth as you sip and your body tries to achieve a thermal equilibrium.
+Coffee is not only one of the coziest moments of my day, it is also an art when you learn to appreciate the making of it. Caffeine in moderation is good for the beginning of ones' day. As a hot drink, coffee brings warmth as you sip and your body tries to achieve a thermal equilibrium.
 
 🗨️
 Languages are a cognitive challenge and help to understand the diversity of beliefs and behaviours as you dive into a culture. I have already studied almost a dozen of them. 
@@ -47,7 +47,7 @@ Languages are a cognitive challenge and help to understand the diversity of beli
 Gardening is a getaway to nature and to slowing down, as a byproduct one can have organic food collected. 
 
 🎵
-Music is connected to happiness, and I love how it makes me more inspired and concentrated during almost all activities.
+Music is related to the feeling of spark, and I love how it makes me more inspired and concentrated during almost all activities.
 
 🧑‍🍳
 Cooking healthy and tasty food is good for the body and the mind; I love to explore ingredients and to feel I am capable of reproducing recipes or creating new ones.
