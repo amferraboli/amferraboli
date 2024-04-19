@@ -18,7 +18,7 @@ amanda = {
 	"R", 
 	"elixir"
     ],
-    "interests": [
+    "things that energize me": [
         "coding",
         "coffee",
 	"languages", 
