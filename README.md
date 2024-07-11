@@ -41,7 +41,7 @@ Coding is fun because I love logical challenges. Also because it beautifully (an
 Coffee is not only one of the coziest moments of my day, it is also an art when you learn to appreciate the making of it. Caffeine in moderation is good for the beginning of ones' day. As a hot drink, coffee brings warmth as you sip and your body tries to achieve a thermal equilibrium.
 
 🗨️
-Languages are a cognitive challenge and help to understand the diversity of beliefs and behaviours as you dive into a culture. I have already studied almost a dozen of them. 
+Languages are a cognitive challenge and help to understand the diversity of beliefs and behaviours as you dive into a culture. I have already studied almost a dozen of them. Even better when linguistics and computer science meet: natural language processing!
 
 🪴
 Gardening is a getaway to nature and to slowing down, as a byproduct one can have organic food collected. 
