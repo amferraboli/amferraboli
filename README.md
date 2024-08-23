@@ -1,4 +1,4 @@
-<p align='center'> Working as a Data Scientist at <a href="http://loft.com.br"> Loft </a></p>
+<p align='center'> Working as a Senior Data Scientist </a></p>
 
 <p align="center">
     <a href="https://linkedin.com/in/amanda-ferraboli/">
