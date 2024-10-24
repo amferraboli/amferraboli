@@ -30,6 +30,12 @@ amanda = {
     "causes": [
 	"data science for social good", 
 	"women in data science"
+    ],
+    "current interested in": [
+	"NLP", 
+	"information retrieval",
+	"RAG",
+	"MLOps"
     ]
 }
 ```
