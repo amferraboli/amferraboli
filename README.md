@@ -8,8 +8,8 @@
     
 </p>
 
-I'm Amanda, a data scientist, and I'm thrilled to have you on my page. This is where I add some of my writing and code creations. 
-If I were to describe my data in a structured manner, it would probably resemble something like the dictionary below:
+I'm Amanda, a data scientist, nice to have you on my page. This is where I add some of my writing and code creations. 
+If I were to describe myself in a structured way, it would probably resemble something like the dictionary below:
 
 ```python
 amanda = {
