@@ -31,10 +31,11 @@ amanda = {
 	"data science for social good", 
 	"women in data science"
     ],
-    "current interested in": [
+    "current interests": [
 	"NLP", 
 	"information retrieval",
-	"RAG",
+	"search",
+	"GenAI",
 	"MLOps"
     ]
 }
